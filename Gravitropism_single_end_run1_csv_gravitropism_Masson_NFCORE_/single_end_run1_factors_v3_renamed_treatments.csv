@@ -1,0 +1,4 @@
+ID,0MS_rep-1,5GS_rep-1,5MS_rep-1,20GS_rep-1,20MS_rep-1,150GS-rep-1,150MS-rep-1,0GS-rep1,0GS-rep-2,0GS-rep4,0MS-rep-2,0MS-rep-3,20GS-rep-2,20GS-rep4,20MS-rep-2,20MS-rep4,5GS-rep-2,5GS-rep-3,5MS-rep-2,5MS-rep-3
+Time point,0,5,5,20,20,150,150,0,0,0,0,0,20,20,20,20,5,5,5,5
+Treatment,MS_,GS_,MS_,GS_,MS_,GS_,MS_,GS_,GS_,GS_,MS_,MS_,GS_,GS_,MS_,MS_,GS_,GS_,MS_,MS_
+Sample,MS_0,GS_5,MS_5,GS_20,MS_20,GS_150,MS_150,GS_0,GS_0,GS_0,MS_0,MS_0,GS_20,GS_20,MS_20,MS_20,GS_5,GS_5,MS_5,MS_5
