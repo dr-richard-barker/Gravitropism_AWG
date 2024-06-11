@@ -11,3 +11,4 @@
 * [Hormones integrate multiple environmental and developmental signals](hormones-integrate-multiple-environmental-and-developmental-signals.md)
 * [References](references.md)
 * [Results](results.md)
+* [New work to integrate](new-work-to-integrate.md)
